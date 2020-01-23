@@ -124,4 +124,4 @@ MonoBehaviour:
   m_Time: 5
   m_Retroactive: 0
   m_EmitOnce: 0
-  m_Asset: {fileID: 11400000, guid: 33daab82730750944b1133bfd188cad4, type: 2}
+  m_Asset: {fileID: 0}
